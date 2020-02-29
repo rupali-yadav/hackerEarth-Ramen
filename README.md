@@ -1,6 +1,6 @@
-# react-boilerplate
-download the react boiler plate
+# top ramen restaurants question
 
-2. run npm install
+1. download the project
+2. run--> npm install
 3. run->  yarn run dev-server
-4. run it on localhost
+4. open  localhost
